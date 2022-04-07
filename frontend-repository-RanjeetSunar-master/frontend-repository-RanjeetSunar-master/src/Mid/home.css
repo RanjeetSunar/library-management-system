@@ -1,0 +1,44 @@
+.home{
+    background-image : url(../image/aa.jpg);
+    
+    position: relative;
+    height: 600px;
+    width: auto;
+    opacity: 0.85;
+}
+.home h1{
+    color:white;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 14%;    
+
+}
+ .home h2{
+    color:white;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: -1px;
+    text-align: center;
+
+}
+.newhome{
+    height: 500px;
+    background-color: #171819;
+}
+.newhome1{
+    height: 500px;
+    background-color: #f9f9f9;
+    
+}
+/* .newhome h1{
+    color: white;
+    text-align: center;
+}
+.newhome1 h1{
+    color: black;
+    text-align: center;
+} */
+

@@ -1,0 +1,33 @@
+#footer{
+    background-color: white;
+}
+.container1{
+    width: auto;
+    height: 300px;
+    background-color: #212529;
+}
+.topic {
+    color: white;
+    text-align: center;
+    text-shadow: black;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.text-one {
+    color: white;
+    text-align: center;
+    text-shadow: black;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.text-two {
+    color: white;
+    text-align: center;
+    text-shadow: black;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
